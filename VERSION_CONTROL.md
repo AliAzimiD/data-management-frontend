@@ -51,27 +51,26 @@ We follow the **Conventional Commits** specification to ensure consistent commit
 <body>
 
 <footer>
-Example Commit Messages
+```
+### Example Commit Messages
 New Feature:
-plaintext
-Copy code
+```plaintext
 feat(api): add endpoint for fetching user data
+```
 Bug Fix:
-plaintext
-Copy code
+```plaintext
 fix(auth): resolve login error on incorrect credentials
-Pull Request (PR) Guidelines
-Branch Naming: Ensure your branch follows the naming conventions.
-PR Checklist:
-Ensure your code is properly formatted.
-Ensure all tests pass locally.
-Update relevant documentation if necessary.
-PR Review:
-Assign at least one reviewer for the PR.
-Ensure at least one approval before merging.
-Merging Strategy:
-Use Squash and Merge to keep the commit history clean.
-yaml
-Copy code
+```
+## Pull Request (PR) Guidelines
+1. **Branch Naming**: 
+- Ensure your branch follows the naming conventions.
+2. **PR Checklist**:
+- Ensure your code is properly formatted.
+- Ensure all tests pass locally.
+- Update relevant documentation if necessary.
+3. PR Review:
+- Assign at least one reviewer for the PR.
+- Ensure at least one approval before merging.
+4. Merging Strategy:
+- Use Squash and Merge to keep the commit history clean.
 
----
