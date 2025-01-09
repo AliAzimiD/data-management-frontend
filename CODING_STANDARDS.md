@@ -73,15 +73,16 @@ src/
 ├── middlewares/      # Express middlewares
 ├── routes/           # API routes
 └── index.ts          # Main entry point
-Frontend Coding Standards
-Use React Functional Components and React Hooks.
-Manage global state using Redux Toolkit.
-Validate forms using React Hook Form and Yup.
-Ensure components are reusable and well-documented.
-Write unit and integration tests using Jest and React Testing Library.
-Example Folder Structure
-plaintext
-Copy code
+```
+## Frontend Coding Standards
+1. Use React Functional Components and React Hooks.
+2. Manage global state using Redux Toolkit.
+3. Validate forms using React Hook Form and Yup.
+4. Ensure components are reusable and well-documented.
+5. Write unit and integration tests using Jest and React Testing Library.
+
+### Example Folder Structure
+```plaintext
 src/
 ├── components/        # UI components
 ├── hooks/             # Custom React hooks
