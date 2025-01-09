@@ -1,6 +1,6 @@
 ## **`VERSION_CONTROL.md`**
 
-```markdown
+
 # Version Control Practices for Data Management Application
 
 This document outlines the version control practices for the Data Management Application. Following these practices ensures a clean and organized codebase, enabling smooth collaboration among developers.
