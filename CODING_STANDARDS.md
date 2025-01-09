@@ -91,15 +91,15 @@ src/
 ├── store/             # Redux store
 ├── styles/            # Global and component styles
 └── App.tsx            # Main app component
-Testing
-Backend:
+```
+## Testing
+### Backend:
 Use Jest for unit and integration tests.
 Write tests for all services and controllers.
-Frontend:
+
+### Frontend:
 Use Jest and React Testing Library for unit and integration tests.
 Write tests for all critical components and services.
-go
-Copy code
 
 ---
 
